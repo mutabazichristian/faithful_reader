@@ -1,16 +1,51 @@
-# faithful_reader
+# Bible Verse Mood App 🙏✨
 
-A new Flutter project.
+## What is this? 
 
-## Getting Started
+This is a super cool Flutter app that helps you find the perfict Bible verse based on how your feeling! (Yes, I know I used the wrong "your" - deal with it 😉)
 
-This project is a starting point for a Flutter application.
+### Features
 
-A few resources to get you started if this is your first Flutter project:
+- Choose from 6 different moods:
+  * Grateful
+  * Happy
+  * Excited
+  * Peaceful
+  * Curious
+  * Thoughtful
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Get a custom Bible verse that matches your mood
+- View detailed verse information
+- Awesome color palette that's easy on the eyes
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### How to Use
+
+1. Open the app
+2. Select your current mood
+3. Click "Get Verse"
+4. Read your personalized verse
+5. Click "More Details" to learn more about the verse
+
+### Tech Stuff
+
+- Built with Flutter 💙
+- Uses HTTP to fetch verses from bible-api.com
+- Custom color theme (check out those sweet color codes!)
+
+### Roadmap (maybe?)
+
+- [ ] Add more moods
+- [ ] Offline verse caching
+- [ ] Share verses with friends
+
+### Disclaimer
+
+Verses are selected based on mood and might not be a perfect match everytime. We're trying our best! 🤷‍♀️
+
+### Contributing
+
+Got ideas? Pull requests are welcome! Just try not to break everything, k? 😄
+
+### License
+
+Do whatever you want with this. Seriously. 🤝
